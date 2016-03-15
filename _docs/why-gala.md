@@ -24,5 +24,5 @@ What makes us unique:
 
 Alternatives:
 
-* Apple Enterprise Connect ($5'000 per site)
+* Apple Enterprise Connect ($5,000 per site)
 * [ADmitMac](http://www.thursby.com/products/admitmac) ($179 per seat)
